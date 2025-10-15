@@ -11,7 +11,7 @@ A simple clone of the classic 2048 game built with JavaScript, HTML, and CSS. Co
 
 ## Getting started
 ### Clone the repository:
-- git clone https://github.com/your-username/project-name.git
+- git clone https://github.com/Taipan-4ik/Game-2048.git
 - cd project-name
 
 ### Install dependencies:
