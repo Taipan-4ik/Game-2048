@@ -1,6 +1,8 @@
 # A simple 2048 clone
 A simple clone of the classic 2048 game. Combine numbered tiles to reach 2048! Clean interface, smooth gameplay, and no external libraries.
 
+> 🚀 [Live Demo](https://taipan-4ik.github.io/Game-2048/)
+
 ## Technologies Used 💻
 
 ### Core
